@@ -1,5 +1,6 @@
 # 贪吃蛇小游戏
 remove some redundent files                                                                      12:36  2021/2/20
+
 Useage
 
 Use the up, down, left and right btns to control the snake's body movement,
